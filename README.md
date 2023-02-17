@@ -1,2 +1,2 @@
 # temporaryforClass
-a temporary Respository for class
+a temporary Repository for class
